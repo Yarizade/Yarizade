@@ -4,7 +4,7 @@
 </head>
 <body>
  <style>
-  p} ;color: red
+  p{ ;color: red}
  </style>
  <p>محمدامین یاری زاده</p> 
 </body>
